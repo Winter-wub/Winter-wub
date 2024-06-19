@@ -1,8 +1,6 @@
-# Wave aka Winter-wub
-Hello my name is Wave. I'm who interesting the programming in web development. Sure i love React and Nodejs
+# Wave (Winter-wub)
+Hello my name is Wave. I'm who interesting the programming in web development.
 
-## My Activity
-Sometimes i love watch netflix movie. but i always learning in DevOps and another frontend framework.
 
 ## Github Analytics
 <p align="center">
